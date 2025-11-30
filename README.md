@@ -6,7 +6,7 @@
 ---
 
 ## 🧑‍🎓 About Me
-- 🎓 Currently starting my **MS in Computer Science at George Washington University (GWU)** – Fall 2025  
+- 🎓 Currently pursuing my **MS in Computer Science at George Washington University (GWU)** – Fall 2025  
 - 📚 During my undergrad, I **volunteered with NGOs**, teaching 500+ students about full-stack development, AI, and the future of technology  
 - 💻 Now building my GitHub with **end-to-end projects**, sharpening my **DSA** daily, and mastering cutting-edge tech stacks  
 - 🚀 Passionate about combining **Generative AI**, **Machine Learning**, and **Full Stack Development** to build innovative, scalable solutions  
