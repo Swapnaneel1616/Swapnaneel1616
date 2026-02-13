@@ -27,18 +27,27 @@
 ### 🛠️ Backend Frameworks, Libraries , Databases
 - [![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3)](https://skillicons.dev)
 - ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-- [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=3)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=4)](https://skillicons.dev)
 
 ---
 
 ### ☁️ Cloud & DevOps
 - **AWS**, **Google Cloud Platform (GCP)**, **Docker**
 - **CI/CD Pipelines**, **SonarQube** (Code Quality & Coverage)
+- [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp&perline=3)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus&perline=4)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=git,jenkins,linux&perline=3)](https://skillicons.dev)
 
 ---
 
-### 🗄️ Databases
-- **MongoDB**, **MySQL**
+### 🗄️ Distributed Systems and Tools
+- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+- ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-f5f5f5?style=for-the-badge&logo=junit5&logoColor=dc524a)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
 
