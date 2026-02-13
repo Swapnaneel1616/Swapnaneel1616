@@ -50,9 +50,6 @@
 ---
 
 ### 🤖 Artificial Intelligence / Machine Learning
-- **scikit-learn**, **pandas**, **NumPy**
-- **TensorFlow**, **Hugging Face Transformers**, **OpenAI API**
-- **LangChain**, **Vector Databases**, **Agentic AI**
 - ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
@@ -65,11 +62,6 @@
 
 ---
 
-### 🧪 Testing & Quality Assurance
-- **JUnit**, **Mockito**, **Postman**, **SonarQube** (Static Code Analysis)
-- **Test-Driven Development (TDD)**, **Integration Testing**
-
----
 
 ## 📌 Current Focus
 - 📦 Developing **industry-ready AI-powered full-stack applications**
