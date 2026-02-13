@@ -25,9 +25,9 @@
 ---
 
 ### 🛠️ Backend Frameworks, Libraries , Databases
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3)](https://skillicons.dev)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=3)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3)](https://skillicons.dev)
+- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+- [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=3)](https://skillicons.dev)
 
 ---
 
