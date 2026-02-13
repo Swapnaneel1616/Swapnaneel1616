@@ -32,8 +32,6 @@
 ---
 
 ### ☁️ Cloud & DevOps
-- **AWS**, **Google Cloud Platform (GCP)**, **Docker**
-- **CI/CD Pipelines**, **SonarQube** (Code Quality & Coverage)
 - [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp&perline=3)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus&perline=4)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=git,jenkins,linux&perline=3)](https://skillicons.dev)
@@ -55,6 +53,15 @@
 - **scikit-learn**, **pandas**, **NumPy**
 - **TensorFlow**, **Hugging Face Transformers**, **OpenAI API**
 - **LangChain**, **Vector Databases**, **Agentic AI**
+- ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
