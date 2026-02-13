@@ -15,12 +15,12 @@
 ## 🚀 Skills
 
 ### 💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,js,ts,go&perline=6)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,js,ts,go&perline=6)](https://skillicons.dev)
 
 ---
 
 ### 🌐 Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,angular,nextjs,tailwind&perline=6)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html,css,react,angular,nextjs,tailwind&perline=6)](https://skillicons.dev)
 
 ---
 
