@@ -21,12 +21,11 @@
 ---
 
 ### 🌐 Frontend Development
-- **HTML**, **CSS**, **React.js**, **Next.js**, **Tailwind CSS**
 - [![My Skills](https://skillicons.dev/icons?i=html,css,react,angular,nextjs,tailwind&perline=6)](https://skillicons.dev)
 
 ---
 
-### 🛠️ Backend Development
+### 🛠️ Backend Frameworks, Libraries , Databases
 - **Node.js**, **Express.js**, **FastAPI**, **Spring Boot**, **Spring Data JPA**
 - **Spring AI**, **Kafka**, **JWT Authentication**, **OAuth 2.0**
 - **RESTful APIs**, **Microservices**, **Maven**
