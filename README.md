@@ -16,7 +16,6 @@
 ## 🚀 Skills
 
 ### 💻 Programming Languages
-- **Java**, **Python**, **C++**, **JavaScript**, **TypeScript**, **Go**
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,js,ts,go&perline=6)](https://skillicons.dev)
 
 ---
