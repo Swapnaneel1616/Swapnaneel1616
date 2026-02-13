@@ -1,13 +1,12 @@
 👋 Hi there! I'm **Swapnaneel Chatterjee**
 
-> 🌱 Aspiring **AI Full-Stack Developer & Machine Learning Engineer**  
+> 🌱 Aspiring **AI Full-Stack Developer & AI Engineer**  
 > 🔍 Exploring the endless ocean of code, AI, and innovative technology.
 
 ---
 
 ## 🧑‍🎓 About Me
-- 🎓 Currently pursuing my **MS in Computer Science at George Washington University (GWU)** – Fall 2025  
-- 📚 During my undergrad, I **volunteered with NGOs**, teaching 500+ students about full-stack development, AI, and the future of technology  
+- 🎓 Currently pursuing my **MS in Computer Science at George Washington University (GWU)** – Fall 2025    
 - 💻 Now building my GitHub with **end-to-end projects**, sharpening my **DSA** daily, and mastering cutting-edge tech stacks  
 - 🚀 Passionate about combining **Generative AI**, **Machine Learning**, and **Full Stack Development** to build innovative, scalable solutions  
 
@@ -26,9 +25,9 @@
 ---
 
 ### 🛠️ Backend Frameworks, Libraries , Databases
-- **Node.js**, **Express.js**, **FastAPI**, **Spring Boot**, **Spring Data JPA**
-- **Spring AI**, **Kafka**, **JWT Authentication**, **OAuth 2.0**
-- **RESTful APIs**, **Microservices**, **Maven**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3)](https://skillicons.dev)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=3)](https://skillicons.dev)
 
 ---
 
