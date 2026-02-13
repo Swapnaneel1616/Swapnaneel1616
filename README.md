@@ -1,14 +1,17 @@
 👋 Hi there! I'm **Swapnaneel Chatterjee**
 
-> 🌱 Aspiring **AI Full-Stack Developer & AI Engineer**  
-> 🔍 Exploring the endless ocean of code, AI, and innovative technology.
+> 🌱 **AI Full-Stack Developer & AI Engineer**
+> **Specialized in Agentic AI & Cloud-Native Microservices**
+> 🔍**Architecting the future with Multi-Agent Systems, RAG Pipelines, and scalable backend ecosystems.**
 
 ---
 
+
 ## 🧑‍🎓 About Me
-- 🎓 Currently pursuing my **MS in Computer Science at George Washington University (GWU)** – Fall 2025    
-- 💻 Now building my GitHub with **end-to-end projects**, sharpening my **DSA** daily, and mastering cutting-edge tech stacks  
-- 🚀 Passionate about combining **Generative AI**, **Machine Learning**, and **Full Stack Development** to build innovative, scalable solutions  
+- 🎓 Pursuing MS in Computer Science at George Washington University (Aug 2025 - May 2027)    
+- 🤖 Deep Focus: Building production-ready Agentic AI RAG architectures and intelligence pipelines using LangGraph, CrewAI, and Multi-Agent Systems.  
+- 🚀 Professional Background: Backend Engineer experienced in modernizing enterprise systems and deploying scalable Spring Boot microservices.
+- 💻 Sharpening DSA daily and mastering distributed systems to build the next generation of intelligent software
 
 ---
 
@@ -64,9 +67,9 @@
 
 
 ## 📌 Current Focus
-- 📦 Developing **industry-ready AI-powered full-stack applications**
-- 🧠 Consistent **LeetCode & DSA practice** for algorithmic proficiency  
-- 🧰 Deep-diving into **MERN stack**, **Spring Boot microservices**, **GenAI integrations**, and **Cloud Deployments**
+- 📦 **Agentic AI & RAG: Architecting Multi-Agent Systems and sophisticated RAG pipelines** to solve complex information retrieval problems.
+- 🧠 **Scalable Intelligence: Deep-diving into Spring AI and event-driven AI workflows using RabbitMQ and Google Gemini.** 
+- 🧰 Production Engineering: Applying DevOps automation **(Docker, Kubernetes, GitHub Actions)** to deploy robust, high-growth engineering solutions.
 
 ---
 
