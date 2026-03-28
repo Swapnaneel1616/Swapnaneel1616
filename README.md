@@ -10,7 +10,7 @@
 ## 🧑‍🎓 About Me
 - 🎓 Pursuing MS in Computer Science at George Washington University (May 2027)    
 - 🤖 Deep Focus: Building production-ready Agentic AI RAG architectures and intelligence pipelines using LangGraph, CrewAI, and Multi-Agent Systems.  
-- 🚀 Professional Background: Backend Engineer experienced in modernizing enterprise systems and deploying scalable Spring Boot microservices.
+- 🚀 Professional Background: Backend Engineer experienced in modernizing enterprise systems and deploying scalable Spring Boot microservices
 - 💻 Sharpening DSA daily and mastering distributed systems to build the next generation of intelligent software
 
 ---
