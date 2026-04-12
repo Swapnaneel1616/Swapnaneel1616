@@ -2,7 +2,7 @@
 
 > 🌱 **AI Full-Stack Developer & AI Engineer**
 > **Specialized in Agentic AI & Cloud-Native Microservices**
-> 🔍**Architecting the future with Multi-Agent Systems, RAG Pipelines and scalable backend ecosystems**
+> 🔍**Architecting the future with Multi-Agent Systems, RAG Pipelines and scalable backend ecosystems.**
 
 ---
 
